@@ -1,0 +1,14 @@
+E:\demo\TCP\Client\Client\bin\Debug\Client.exe.config
+E:\demo\TCP\Client\Client\bin\Debug\Client.exe
+E:\demo\TCP\Client\Client\bin\Debug\Client.pdb
+E:\demo\TCP\Client\Client\bin\Debug\SimpleAssembly.dll
+E:\demo\TCP\Client\Client\bin\Debug\SimpleAssembly.pdb
+E:\demo\TCP\Client\Client\obj\Debug\Client.exe
+E:\demo\TCP\Client\Client\obj\Debug\Client.pdb
+E:\demo\TCP\Client\bin\Debug\Client.exe.config
+E:\demo\TCP\Client\obj\Debug\Client.exe
+E:\demo\TCP\Client\obj\Debug\Client.pdb
+E:\demo\TCP\Client\bin\Debug\Client.exe
+E:\demo\TCP\Client\bin\Debug\Client.pdb
+E:\demo\TCP\Client\bin\Debug\SimpleAssembly.pdb
+E:\demo\TCP\Client\obj\Debug\Client.csprojResolveAssemblyReference.cache

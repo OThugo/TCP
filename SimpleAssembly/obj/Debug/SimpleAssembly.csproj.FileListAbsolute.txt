@@ -1,0 +1,10 @@
+E:\demo\TCP\SimpleAssembly\SimpleAssembly\bin\Debug\SimpleAssembly.dll
+E:\demo\TCP\SimpleAssembly\SimpleAssembly\bin\Debug\SimpleAssembly.pdb
+E:\demo\TCP\SimpleAssembly\SimpleAssembly\obj\Debug\SimpleAssembly.csprojResolveAssemblyReference.cache
+E:\demo\TCP\SimpleAssembly\SimpleAssembly\obj\Debug\SimpleAssembly.dll
+E:\demo\TCP\SimpleAssembly\SimpleAssembly\obj\Debug\SimpleAssembly.pdb
+E:\demo\TCP\SimpleAssembly\bin\Debug\SimpleAssembly.dll
+E:\demo\TCP\SimpleAssembly\bin\Debug\SimpleAssembly.pdb
+E:\demo\TCP\SimpleAssembly\obj\Debug\SimpleAssembly.csprojResolveAssemblyReference.cache
+E:\demo\TCP\SimpleAssembly\obj\Debug\SimpleAssembly.dll
+E:\demo\TCP\SimpleAssembly\obj\Debug\SimpleAssembly.pdb
